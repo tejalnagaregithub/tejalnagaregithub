@@ -1,12 +1,14 @@
+![logo](https://github.com/tejalnagaregithub/tejalnagaregithub/blob/main/business-accessories-objects-top-view_1150-7573.jpg)
 <h1 align="center">Hi 👋, I'm Tejal Nagare</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right"alt="coding"width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right"alt="coding"width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejalnagaregithub&label=Profile%20views&color=0e75b6&style=flat" alt="tejalnagaregithub" /> </p>
 
 - 🌱 I’m currently learning **DSA & React.js**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/tejal-nagare-a46819238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/tejal-nagare-a46819238?utm_source
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/tejal-nagare-a46819238?utm_source
 
 - 📫 How to reach me **tejalnagare262gmail.com**
 
